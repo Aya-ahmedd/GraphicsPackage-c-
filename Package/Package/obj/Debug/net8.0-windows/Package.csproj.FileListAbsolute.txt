@@ -1,0 +1,34 @@
+C:\Users\ghost\source\repos\Package\Package\obj\Debug\net8.0-windows\Package.Form1.resources
+C:\Users\ghost\source\repos\Package\Package\obj\Debug\net8.0-windows\Package.csproj.GenerateResource.cache
+C:\Users\ghost\source\repos\Package\Package\obj\Debug\net8.0-windows\Package.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghost\source\repos\Package\Package\obj\Debug\net8.0-windows\Package.AssemblyInfoInputs.cache
+C:\Users\ghost\source\repos\Package\Package\obj\Debug\net8.0-windows\Package.AssemblyInfo.cs
+C:\Users\ghost\source\repos\Package\Package\obj\Debug\net8.0-windows\Package.csproj.CoreCompileInputs.cache
+C:\Users\ghost\source\repos\Package\Package\bin\Debug\net8.0-windows\Package.exe
+C:\Users\ghost\source\repos\Package\Package\bin\Debug\net8.0-windows\Package.deps.json
+C:\Users\ghost\source\repos\Package\Package\bin\Debug\net8.0-windows\Package.runtimeconfig.json
+C:\Users\ghost\source\repos\Package\Package\bin\Debug\net8.0-windows\Package.dll
+C:\Users\ghost\source\repos\Package\Package\bin\Debug\net8.0-windows\Package.pdb
+C:\Users\ghost\source\repos\Package\Package\obj\Debug\net8.0-windows\Package.dll
+C:\Users\ghost\source\repos\Package\Package\obj\Debug\net8.0-windows\refint\Package.dll
+C:\Users\ghost\source\repos\Package\Package\obj\Debug\net8.0-windows\Package.pdb
+C:\Users\ghost\source\repos\Package\Package\obj\Debug\net8.0-windows\Package.genruntimeconfig.cache
+C:\Users\ghost\source\repos\Package\Package\obj\Debug\net8.0-windows\ref\Package.dll
+C:\Users\ghost\source\repos\Package\Package\obj\Debug\net8.0-windows\Package.Properties.Resources.resources
+D:\FCAI\FCAI L3S2\graphics\Package\Package\Package\bin\Debug\net8.0-windows\Package.exe
+D:\FCAI\FCAI L3S2\graphics\Package\Package\Package\bin\Debug\net8.0-windows\Package.deps.json
+D:\FCAI\FCAI L3S2\graphics\Package\Package\Package\bin\Debug\net8.0-windows\Package.runtimeconfig.json
+D:\FCAI\FCAI L3S2\graphics\Package\Package\Package\bin\Debug\net8.0-windows\Package.dll
+D:\FCAI\FCAI L3S2\graphics\Package\Package\Package\bin\Debug\net8.0-windows\Package.pdb
+D:\FCAI\FCAI L3S2\graphics\Package\Package\Package\obj\Debug\net8.0-windows\Package.Form1.resources
+D:\FCAI\FCAI L3S2\graphics\Package\Package\Package\obj\Debug\net8.0-windows\Package.Properties.Resources.resources
+D:\FCAI\FCAI L3S2\graphics\Package\Package\Package\obj\Debug\net8.0-windows\Package.csproj.GenerateResource.cache
+D:\FCAI\FCAI L3S2\graphics\Package\Package\Package\obj\Debug\net8.0-windows\Package.GeneratedMSBuildEditorConfig.editorconfig
+D:\FCAI\FCAI L3S2\graphics\Package\Package\Package\obj\Debug\net8.0-windows\Package.AssemblyInfoInputs.cache
+D:\FCAI\FCAI L3S2\graphics\Package\Package\Package\obj\Debug\net8.0-windows\Package.AssemblyInfo.cs
+D:\FCAI\FCAI L3S2\graphics\Package\Package\Package\obj\Debug\net8.0-windows\Package.csproj.CoreCompileInputs.cache
+D:\FCAI\FCAI L3S2\graphics\Package\Package\Package\obj\Debug\net8.0-windows\Package.dll
+D:\FCAI\FCAI L3S2\graphics\Package\Package\Package\obj\Debug\net8.0-windows\refint\Package.dll
+D:\FCAI\FCAI L3S2\graphics\Package\Package\Package\obj\Debug\net8.0-windows\Package.pdb
+D:\FCAI\FCAI L3S2\graphics\Package\Package\Package\obj\Debug\net8.0-windows\Package.genruntimeconfig.cache
+D:\FCAI\FCAI L3S2\graphics\Package\Package\Package\obj\Debug\net8.0-windows\ref\Package.dll
